@@ -1,2 +1,2 @@
 # Math-modeling
-Math modeling projects here
+Water surface model
